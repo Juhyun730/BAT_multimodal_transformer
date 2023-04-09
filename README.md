@@ -1,2 +1,2 @@
-# BAT_multimodal_transformer
+# BAT_transformer
 bio, audio, text multimodal transformer
