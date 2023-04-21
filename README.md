@@ -16,7 +16,7 @@ We used KEMDy20 dataset for the project. It can be downloaded from https://nanum
 #### Data Augmentation
 * The label imbalance was so severe that data augmentation was necessary.
 * Bio data has been augmented by SMOTE. (It was only used in the control group)
-* Text data were augmented by replacing words with synonyms through konlpy. (It was only used in the control group)
+* Text data were augmented by replacing words with synonyms through wordnet. (It was only used in the control group)
 * Audio data has been augmented by pitch changes, noise additions, and random value multiplication.
 
 #### Bio Data
