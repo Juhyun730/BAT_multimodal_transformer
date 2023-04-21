@@ -32,6 +32,7 @@ We used KEMDy20 dataset for the project. It can be downloaded from https://nanum
 
 #### Text Data
 * The audio data from KEMDy20 dataset is tokenized through okt library.
+* Text data were augmented by replacing words with synonyms through wordnet. (It was only used in the control group)
 
 # Experiments
 | Model | precision | recall | F1 score (weighted) |
