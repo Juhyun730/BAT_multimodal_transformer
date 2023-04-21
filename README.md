@@ -1,6 +1,7 @@
 # BAT_Transformer
 bio, audio, text multimodal transformer
-![image](https://user-images.githubusercontent.com/52825569/233276565-99158b75-da53-4906-be83-6cba89e0313a.png)
+![image](https://user-images.githubusercontent.com/52825569/233546214-dce7d2e7-81a5-42b0-9135-feeacbc7ab5a.png)
+
 
 This model is used to recognize emotion based on bio, audio and texts.
 
