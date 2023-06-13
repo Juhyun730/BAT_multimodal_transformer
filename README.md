@@ -7,6 +7,7 @@ This model is used to recognize emotion based on bio, audio and texts.
 
 # Datasets
 We used KEMDy20 dataset for the project. It can be downloaded from https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR 
+
 You can download train, valid, test and preprecessed dataset(audio_augmented_per3500.pkl) from http://naver.me/FjjAr0qG 
 
 # Methodology
